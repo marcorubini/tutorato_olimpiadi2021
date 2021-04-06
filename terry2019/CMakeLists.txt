@@ -1,0 +1,5 @@
+project(terry2019)
+add_exercise(download)
+add_exercise(tornello)
+add_exercise(gerarchie)
+add_exercise(multicore)

@@ -1,0 +1,5 @@
+project(terry2018)
+add_exercise(party)
+add_exercise(antivirus)
+add_exercise(xray)
+add_exercise(escursione)
