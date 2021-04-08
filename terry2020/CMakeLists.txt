@@ -1,0 +1,5 @@
+project(terry2020)
+add_exercise(interruttori)
+add_exercise(mostra)
+add_exercise(pesci)
+add_exercise(social)
