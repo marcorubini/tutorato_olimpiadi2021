@@ -1,0 +1,5 @@
+project(vari)
+add_exercise(ois_atc)
+add_exercise(topologia)
+add_exercise(dessert)
+add_exercise(ois_islands)
